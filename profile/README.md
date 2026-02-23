@@ -1,12 +1,45 @@
-## Hi there 👋
+# 🏡 Ark Cabin
 
-<!--
+> **Designing Spaces. Crafting Lives.**
 
-**Here are some ideas to get you started:**
+Welcome to the official GitHub profile of **Ark Cabin** — a professional cabinetry and interior decoration company dedicated to transforming living spaces with quality craftsmanship and elegant design.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🪵 Who We Are
+
+Ark Cabin is a leading cabinet manufacturing and home décor company based in the **Chahar-Dangeh Industrial Township, Iran**. We combine modern design principles with premium materials to deliver exceptional results for every project — from a single kitchen cabinet to a full home interior transformation.
+
+🌐 Visit us at: [arkcabin.com](https://arkcabin.com/)
+
+---
+
+## 🛠️ What We Do
+
+- 🗄️ **Custom Cabinet Design & Manufacturing** — Tailored to your space, taste, and budget
+- 🏠 **Home Interior Decoration** — Full-service décor solutions for modern living
+- 🎨 **Design Consultation** — Expert guidance from concept to completion
+- ⚙️ **Professional Installation** — Precise, clean, and reliable fitting by skilled craftsmen
+
+---
+
+## 🌟 Our Promise
+
+We are committed to:
+
+- ✅ Using only the **highest quality materials**
+- ✅ Delivering **on time and within budget**
+- ✅ Ensuring **complete customer satisfaction**
+- ✅ Bringing your **vision to life** with attention to every detail
+
+---
+
+## 📬 Get in Touch
+
+Have a project in mind? We'd love to hear from you.
+
+🌐 [arkcabin.com](https://arkcabin.com/)
+
+---
+
+*© Ark Cabin — All Rights Reserved*
